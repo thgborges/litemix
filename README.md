@@ -86,34 +86,11 @@ Enquanto ferramentas como o Remix são poderosas, o LiteMix foca em:
 
 ---
 
-## 🛠️ Como rodar localmente
-
-```bash
-git clone https://github.com/seu-usuario/litemix.git
-cd litemix
-npm install
-npm run dev
-```
-
-Acesse:
-
-```
-http://localhost:3000
-```
-
----
-
 ## 🤝 Contribuição
 
 Contribuições são bem-vindas!
 
 Sinta-se à vontade para abrir issues ou pull requests.
-
----
-
-## 📄 Licença
-
-MIT License
 
 ---
 
