@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://via.placeholder.com/200x200.png?text=LiteMix" alt="LiteMix Logo" width="180" />
+<img width="388" height="228" alt="image" src="https://github.com/user-attachments/assets/9626c54c-d5d2-4922-bbc0-bad09ae3223d" />
 </p>
 
 <h1 align="center">⚡ LiteMix</h1>
