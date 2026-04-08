@@ -2,8 +2,6 @@
 <img width="388" height="228" alt="image" src="https://github.com/user-attachments/assets/9626c54c-d5d2-4922-bbc0-bad09ae3223d" />
 </p>
 
-<h1 align="center">⚡ LiteMix</h1>
-
 <p align="center">
   <strong>Smart Contract Deployment, Made Simple</strong>
 </p>
