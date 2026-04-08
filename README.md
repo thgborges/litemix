@@ -14,7 +14,7 @@
 
 ## 🌐 Acesse o projeto
 
-👉 https://litemix.dev
+👉 https://www.litemix.dev/
 
 ---
 
